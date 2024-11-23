@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <AssemblyName>ReardonTech.AzureServiceBusEmulator.Configuration</AssemblyName>
+        <RootNamespace>ReardonTech.AzureServiceBusEmulator.Configuration</RootNamespace>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>ReardonTech.AzureServiceBusEmulator.Configuration</PackageId>
+        <Title>Azure Service Bus Emulator Configuration Builder</Title>
+    </PropertyGroup>
+
+</Project>
