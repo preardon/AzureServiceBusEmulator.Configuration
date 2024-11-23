@@ -6,6 +6,12 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageId>ReardonTech.AzureServiceBusEmulator.Configuration</PackageId>
         <Title>Azure Service Bus Emulator Configuration Builder</Title>
+
+        <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="README.md" Pack="true" PackagePath=""/>
+    </ItemGroup>
 
 </Project>

@@ -7,5 +7,6 @@
         <RepositoryUrl>https://github.com/preardon/AzureServiceBusEmulator.Configuration</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 </Project>
