@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Azure.Messaging.ServiceBus" />
+      <PackageReference Include="ReardonTech.AzureServiceBusEmulator.Configuration" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ASBExample.Shared\ASBExample.Shared.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Azure.Messaging.ServiceBus" Version="7.18.2" />
+    <PackageVersion Include="ReardonTech.AzureServiceBusEmulator.Configuration" Version="1.0.0" />
+  </ItemGroup>
+</Project>
